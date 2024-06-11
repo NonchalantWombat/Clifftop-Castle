@@ -1,0 +1,40 @@
+{
+  "id": "clifftop-castle",
+  "title": "Clifftop Castle",
+  "version": "1.0.12",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "NonchalantWombat",
+      "url": "https://github.com/NonchalantWombat",
+      "discord": "nonchalantwombat",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "clifftop-castle-import",
+      "label": "Clifftop Castle Import",
+      "path": "packs/clifftop-castle-import",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}

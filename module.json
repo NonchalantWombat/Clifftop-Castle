@@ -37,4 +37,7 @@
       "flags": {}
     }
   ]
+  "url": "https://github.com/NonchalantWombat/Clifftop-Castle",
+  "download": "https://github.com/NonchalantWombat/Clifftop-Castle/archive/refs/heads/main.zip",
+  "manifest": "https://github.com/NonchalantWombat/Clifftop-Castle/blob/main/module.json",
 }
